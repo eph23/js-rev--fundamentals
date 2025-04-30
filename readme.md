@@ -32,6 +32,8 @@ Quickly review key topics with minimal time spent on re-coding everything. Focus
 - 2025-04-30: Challenge #1
 - 2025-05-01: Reviewed Arrays
 - 2025-05-01: Challenge #2
+- 2025-05-01: Reviewed Objects
+- 2025-05-01: Challenge #3
 
 ## 📓 Notion Notes
 
