@@ -28,6 +28,8 @@ Quickly review key topics with minimal time spent on re-coding everything. Focus
 ## ✅ Progress Log
 
 - 2025-04-30: Initialized with starter files
+- 2025-04-30: Reviewed Functions
+- 2025-04-30: Challenge #1
 
 ## 📓 Notion Notes
 
