@@ -1,0 +1,44 @@
+# 📘 JS Revision – Fundamentals
+
+This repo contains revision materials for the "Fundamentals" chapter of the Complete JavaScript Course by Jonas Schmedtmann.
+
+## 📅 Date Started
+
+April 30, 2025
+
+-----------------------------------------------
+
+## ✅ Topics Covered
+
+- ✔ Strict Mode
+- ✔ Introduction to Functions
+- ✔ Introduction to Arrays
+- ✔ Introduction to Objects
+- ✔ Iterations
+- ✔ Chapter Challenges
+
+## 🔁 Goal
+
+Quickly review key topics with minimal time spent on re-coding everything. Focus on key concepts and challenges.
+
+## 📌 Chapter Challenge
+
+-🏆
+
+## ✅ Progress Log
+
+- 2025-04-30: Initialized with starter files
+
+## 📓 Notion Notes
+
+- 🔗
+
+## 🔥 Key Takeaways
+
+- 🏁
+
+## 🗒️ To-Do / Revisit Later
+
+- ⭕
+
+-----------------------------------------------------
